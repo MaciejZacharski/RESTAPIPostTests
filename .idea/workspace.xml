@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3273c4a8-d375-4a3c-9de8-e70ea8de0dc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/fakeapitests/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/AddPostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/DeletePostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/GetPostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/GetPostsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/PatchPostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/UpdatePostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/dbCopy.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cxkECdRpMCNgRJZyd5RYQSv5Bw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.&lt;default&gt;.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddPostTest.addPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.All Tests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DeletePostTest.deletePost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DeletePostTest.getPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPostTest.getPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPostsTest.getPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PatchPostTest.updatePatchPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UpdatePostTest.updatePost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/Selenium kurs/AplikacjaHotelowaTesty/FakeApiTests/src/main/test/resources&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\Selenium kurs\AplikacjaHotelowaTesty\FakeApiTests\src\main\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\Selenium kurs\AplikacjaHotelowaTesty\FakeApiTests\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.All Tests">
+    <configuration name="All Tests" type="TestNG" temporary="true">
+      <module name="FakeApiTests" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletePostTest.deletePost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FakeApiTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.DeletePostTest" />
+      <option name="METHOD_NAME" value="deletePost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletePostTest.getPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FakeApiTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.DeletePostTest" />
+      <option name="METHOD_NAME" value="getPost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPostsTest.getPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FakeApiTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GetPostsTest" />
+      <option name="METHOD_NAME" value="getPost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FakeApiTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.All Tests" />
+      <item itemvalue="TestNG.DeletePostTest.deletePost" />
+      <item itemvalue="TestNG.DeletePostTest.getPost" />
+      <item itemvalue="TestNG.GetPostsTest.getPost" />
+      <item itemvalue="TestNG.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.All Tests" />
+        <item itemvalue="TestNG.GetPostsTest.getPost" />
+        <item itemvalue="TestNG.test" />
+        <item itemvalue="TestNG.DeletePostTest.deletePost" />
+        <item itemvalue="TestNG.DeletePostTest.getPost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3273c4a8-d375-4a3c-9de8-e70ea8de0dc8" name="Changes" comment="" />
+      <created>1709060505980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709060505980</updated>
+    </task>
+    <servers />
+  </component>
+</project>

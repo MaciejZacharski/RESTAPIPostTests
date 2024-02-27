@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "author": "Jane",
+      "title": "Updated post",
+      "id": 1
+    },
+    {
+      "author": "Jane",
+      "title": "Updated post",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "a title",
+      "author": "Mark"
+    },
+    {
+      "id": 5,
+      "title": "Nice post",
+      "author": "Marcus"
+    },
+    {
+      "id": 6,
+      "author": "Marry",
+      "title": "Very nice post"
+    }
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "author": "Marry",
+      "text": "Very nice post"
+    },
+	  {
+      "id": 2,
+      "author": "Marry",
+      "text": "Very nice post"
+    }
+  
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
