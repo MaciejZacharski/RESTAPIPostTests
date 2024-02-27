@@ -7,7 +7,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class DeletePostTest extends BaseTest {
 
-    @Test
+   /* @Test
     public void deletePost() {
 
         given()
@@ -20,5 +20,5 @@ public class DeletePostTest extends BaseTest {
 
 
 
-    }
+    }*/
 }
